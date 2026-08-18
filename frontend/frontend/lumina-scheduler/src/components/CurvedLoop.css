@@ -1,0 +1,28 @@
+.curved-loop-jacket {
+  min-height: 200px; /* Reduced from 100vh to fit at bottom */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin-top: 2rem;
+}
+
+.curved-loop-svg {
+  user-select: none;
+  width: 100%;
+  aspect-ratio: 1440 / 120;
+  overflow: visible;
+  display: block;
+  font-size: 3rem; /* Reduced from 6rem for better look */
+  fill: var(--primary); /* Changed to use theme primary color */
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+.curved-loop-svg textPath {
+  letter-spacing: 0.1em;
+}

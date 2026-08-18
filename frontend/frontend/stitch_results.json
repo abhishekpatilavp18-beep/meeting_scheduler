@@ -1,0 +1,67 @@
+{
+  "landing": {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "The caller does not have permission",
+          "type": "text"
+        }
+      ],
+      "isError": true
+    }
+  },
+  "dashboard": {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "The caller does not have permission",
+          "type": "text"
+        }
+      ],
+      "isError": true
+    }
+  },
+  "booking": {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "The caller does not have permission",
+          "type": "text"
+        }
+      ],
+      "isError": true
+    }
+  },
+  "availability": {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "The caller does not have permission",
+          "type": "text"
+        }
+      ],
+      "isError": true
+    }
+  },
+  "meetings": {
+    "id": 1,
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "The caller does not have permission",
+          "type": "text"
+        }
+      ],
+      "isError": true
+    }
+  }
+}
