@@ -2,7 +2,7 @@ import { io } from 'socket.io-client';
 
 const SOCKET_URL =
   import.meta.env.VITE_SOCKET_URL ||
-  'https://meeting-scheduler-1-4m0a.onrender.com';
+  'https://meeting-scheduler-c9p3.onrender.com';
 
 class SocketService {
   constructor() {

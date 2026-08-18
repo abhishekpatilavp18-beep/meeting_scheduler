@@ -2,7 +2,7 @@ import axios from 'axios';
 
 const API_URL =
   import.meta.env.VITE_API_URL ||
-  'https://meeting-scheduler-1-4m0a.onrender.com/api/v1';
+  'https://meeting-scheduler-c9p3.onrender.com/api/v1';
 
 // Request cache to prevent duplicates
 const pendingRequests = new Map();
